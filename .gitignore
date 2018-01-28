@@ -89,5 +89,3 @@ ENV/
 .ropeproject
 
 ## MY IGNORES
-practice.py
-__init__.py
