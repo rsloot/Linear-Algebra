@@ -1,1 +1,3 @@
-"# Linear-Algebra" 
+# Linear Algebra using Python (3.5x)
+
+This is a set of notebooks using python to assist in learning linear algebra. A lot of linear algebra courses use MATLAB (or Octave) which is can be perplexing at times, and is not as useful as a general purpose language like python. These notebooks follow along with <a href='https://khanacademy.org/math/linear-algebra'>Khan Academy's Linear Algebra</a> playlist, and links to the corresponding videos are embedded in the headers of each module in the notebooks.
